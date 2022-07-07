@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="maintext">Listen to the best music everyday with Hearme now!</string>
+    <string name="get_started">Get Started</string>
+    <string name="letsyouin">Let\'s you in</string>
+    <string name="or">or</string>
+    <string name="sign_in_with_password">sign in with password</string>
+    <string name="dont_have_an_account_sign_up"> don\'t have an account? Sign Up</string>
+
+
+
+</resources>
